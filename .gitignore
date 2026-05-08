@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Project
+.morph_cache/
+*.mp4
+*.mov
+
+# Audio tracks — downloaded locally, not stored in git.
+# See audio/README.md for how to get them.
+audio/*.mp3
+audio/*.m4a
+audio/*.wav
+audio/*.ogg
+audio/*.flac
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
