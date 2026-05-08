@@ -32,7 +32,6 @@ python tempo_morph.py --interactive
 ## Documentation
 
 - [`docs/SETUP.md`](docs/SETUP.md) — install steps, usage details, troubleshooting
-- [`docs/DESIGN_NOTES.md`](docs/DESIGN_NOTES.md) — design rationale and decision history
 
 ## Key flags
 
